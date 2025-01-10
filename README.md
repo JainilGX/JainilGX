@@ -40,5 +40,5 @@ I am a passionate Odoo developer with over 10 years of experience in customizing
 ## Contact
 - **LinkedIn:** [(https://in.linkedin.com/in/joshi-jainil-65514a272)](#)
 - **GitHub:** [Link to your GitHub](#)
-- - **GitHub:** [My GitHub Profile](https://github.com/jainil)
+- - **GitHub:** [My GitHub Profile](https://github.com/JainilGX)
 - **Email:** [jainilj306@gmail.com](#)
