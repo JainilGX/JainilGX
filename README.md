@@ -1,7 +1,7 @@
 # Jainil's Developer Profile
 
 ## About Me
-I am a passionate Odoo developer with over 10 years of experience in customizing and optimizing Odoo implementations. I love programming and consider it an art form. My expertise ranges from backend development to front-end customizations and everything in between.
+I am a passionate Odoo developer with experience in customizing and optimizing Odoo implementations. I love programming and consider it an art form. My expertise ranges from backend development to front-end customizations and everything in between.
 
 ## Skills
 - **Languages:** Python, JavaScript, SQL, HTML, CSS
